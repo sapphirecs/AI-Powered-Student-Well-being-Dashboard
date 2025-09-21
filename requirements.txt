@@ -1,0 +1,12 @@
+streamlit
+pandas
+google-generativeai
+langchain
+langchain-google-genai
+faiss-cpu
+scikit-learn
+matplotlib
+plotly
+openai
+statsmodels
+langchain-community
